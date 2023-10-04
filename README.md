@@ -20,3 +20,5 @@ print($result)
 
 You are welcome to submit a PR request, I will review it before merge into our main branch.
 I encourage you to submit a PR request if you see a bugs or an improvement.
+
+If you want to contribute, you have to fork this repo.  Read more here about fork https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/
